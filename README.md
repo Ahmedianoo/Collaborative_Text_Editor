@@ -82,4 +82,4 @@ mvn clean javafx:run
 ---
 
 ## 🏷️ Tags
-`#Java` `#JavaFX` `#SpringBoot` `#WebSocket` `#CRDT` `#Collaboration` `#Maven`
+#Java #JavaFX #SpringBoot #WebSocket #CRDT #Collaboration #Maven
