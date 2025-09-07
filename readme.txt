@@ -47,11 +47,11 @@ mvn clean javafx:run
 
 ## 📸 Screenshots
 
-<img src="https://github.com/Ahmedianoo/Collaborative_Text_Editor/releases/download/v1.0.0/01.png" width="700" alt="Editor Interface"/>
-<img src="https://github.com/Ahmedianoo/Collaborative_Text_Editor/releases/download/v1.0.0/02.png" width="700" alt="Collaboration Demo"/>
-<img src="https://github.com/Ahmedianoo/Collaborative_Text_Editor/releases/download/v1.0.0/04.png" width="700" alt="Import/Export Demo"/>
-<img src="https://github.com/Ahmedianoo/Collaborative_Text_Editor/releases/download/v1.0.0/05.png" width="700" alt="Collaboration Demo"/>
-<img src="https://github.com/Ahmedianoo/Collaborative_Text_Editor/releases/download/v1.0.0/06.png" width="700" alt="Import/Export Demo"/>
+<img src="screenshots/01.png" width="700" alt="Editor Interface"/>
+<img src="screenshots/02.png" alt="Collaboration Demo"/>
+<img src="screenshots/04.png" width="700" alt="Import/Export Demo"/>
+<img src="screenshots/05.png" width="700" alt="Collaboration Demo"/>
+<img src="screenshots/06.png" width="700" alt="Import/Export Demo"/>
 
 ---
 
